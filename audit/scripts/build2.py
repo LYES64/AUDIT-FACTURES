@@ -58,19 +58,19 @@ reg_barros=[
 ["F2026-B08","2026-04-08","3200","Payée","Fichier"],
 ["F2026-B09","2026-06-15","4750","Non payée","Fichier: Pas Payée"],
 ["F2026-B10","2026-06-15","6265","Non payée","Fichier: Pas Payée"],
-["(sans numéro)","—","7600","Non payée","⚠ Ligne montant SANS n° dans le suivi — à identifier"],
-["F2026-B11 (brouillon)","2026-06","4750","À vérifier","Onglet existe, ABSENT du suivi, affiche 'B10' — à régulariser"],
-["F2026-B12 (brouillon)","2026-06","0","À vérifier","Onglet brouillon 0€, ABSENT du suivi, affiche 'B10'"],
+["(sans numéro)","—","7600","À finaliser","⚠ AUCUN mail: jamais transmise à Eco Shower. Montant interne = poses à facturer (brouillon)."],
+["F2026-B11 (brouillon)","2026-06","4750","À finaliser","Brouillon (affiche 'B10'), JAMAIS envoyé par mail. À finaliser en vraie F2026-B11."],
+["F2026-B12 (brouillon)","2026-06","0","À finaliser","Brouillon 0€, jamais transmis. Dernière facture ENVOYÉE = B10 (15/06)."],
 ]
 
 reprise={
  "IRSH":{"derniere":"F2026-24-IRSH (15/06/2026, 2700€)","repartir":"F2026-25-IRSH",
    "avoir":"dernier avoir AV14 → prochain AV15",
    "note":"Séquence F2026 complète de 01 à 24 (numéros 16→24 avaient été effacés du suivi mais existent). Reprendre à 25."},
- "BARROS":{"derniere":"Suivi s'arrête à F2026-B10 (15/06). Onglets B11 (4750€) et B12 (0€) existent mais NON enregistrés et mal numérotés ('B10').",
-   "repartir":"F2026-B11 (après régularisation)",
+ "BARROS":{"derniere":"F2026-B10 (15/06/2026) — dernière facture RÉELLEMENT envoyée à Eco Shower (confirmé par mail du 15/06).",
+   "repartir":"F2026-B11",
    "avoir":"aucun avoir Barros identifié en 2026",
-   "note":"⚠ AVANT de repartir: vérifier si B11 (4750€) a réellement été envoyée à Eco Shower. Si oui → repartir à B13 ; sinon renuméroter le brouillon en B11. Identifier aussi la ligne 7600€."},
+   "note":"CONFIRMÉ: B11 (4750€), B12 (0€) et la ligne 7600€ n'ont JAMAIS été transmises (aucun mail) — ce sont des brouillons/poses à facturer. Repartir à F2026-B11 en finalisant ces brouillons. Le virement de 10 000€ du 07/07 n'est pas encore ventilé par Eco Shower (accès InterFast demandé le 09/07)."},
 }
 
 m["anomalies"] = [

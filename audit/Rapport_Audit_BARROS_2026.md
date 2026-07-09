@@ -35,9 +35,15 @@ Ces montants **concordent avec le fichier de suivi** (F1025-01→04, F1125-01→
 - La compta Eco Shower (19/05) référence ces factures comme datées **31/12/2025 et 09/01/2026** alors qu'il s'agit de poses d'oct./nov. 2025 facturées début 2026.
 - → **Antidatage assumé et documenté** dans les mails. Implications d'exercice comptable / TVA à faire valider par l'expert-comptable. Ce n'est pas une manipulation cachée d'ETS, mais une pratique demandée par le donneur d'ordre — **à tracer**.
 
-### 🟠 3.2 — Factures B11 / B12 hors suivi + ligne 7 600 € (fichier)
-- Onglets `F2026-B11` (4 750 €) et `F2026-B12` (brouillon, 0 €) **absents du Suivi Factures** ; ligne **7 600 € sans numéro**. Non encore reliés à un mail — **à élucider** (2ᵉ passe mail : rechercher B11/B12, 7 600 €, et les derniers envois de factures à Marina/Lucindo).
-- `F2026-B01` : écart onglet 13 580 € / suivi 13 850 €.
+### 🟢 3.2 — B11 / B12 / ligne 7 600 € : ÉLUCIDÉ (jamais transmises)
+- Le fil **« Facture des douches posées_2026 »** montre que la **dernière facture réellement envoyée** à Eco Shower (Lucindo Barros + Marina Delage) est **`F2026-B10`, le 15/06/2026** (« Veuillez trouver ci-joint la facture F2026-B10 »).
+- **Aucun mail** ne contient B11, B12 ni le montant « 7 600 € ». → Ce sont des **brouillons internes / poses à facturer**, jamais émis. Pas de facture cachée ou supprimée au-delà de B10.
+- **Conséquence numérotation : repartir à `F2026-B11`** en finalisant ces brouillons (voir onglet Synthèse de l'outil).
+- `F2026-B01` : écart onglet 13 580 € / suivi 13 850 € (à vérifier au moment de l'encaissement).
+
+### 🟠 3.2bis — Virement 10 000 € du 07/07 non encore ventilé
+- Notif Qonto 07/07 : 10 000 € reçus de **BARROS ECO**. **Aucun détail d'imputation** d'Eco Shower à ce jour (dernier détail = 19/05). Le 09/07, Lyes a demandé à Marina un **accès InterFast** (« visibilité complète sur les chantiers 2026 », objet *Audit administratif*).
+- → 10 000 € **à imputer** (probablement sur les plus anciennes impayées : F082025 6 540 €, puis B01/B05/B06). À confirmer dès retour d'Eco Shower.
 
 ### 🟠 3.3 — Soldes clients manquants (Marina, 02/04)
 Money dû par les clients finaux, non remonté : **BOULAY Denis 8 400 €**, **ECHEVERRA 11 925 €**, **DOYHAMBOURRE 3 850,01 €**, **HARTMANN Henri 1 500 € (espèces)**. ⚠️ **HARTMANN Henri n'apparaît pas dans le fichier de suivi** → dossier potentiellement non tracé.

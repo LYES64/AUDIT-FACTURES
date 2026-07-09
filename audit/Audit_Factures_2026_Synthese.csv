@@ -1,0 +1,127 @@
+Référence DIA,Référence commande,Client,Date de commande/pose,Date de facture,Numéro de facture,Montant (HT/nouveau montant),Facture retrouvée,Présente fichiers suivi,Présente dans les mails,Preuve retrouvée (fichiers),Prescripteur,Statut,Niveau de confiance
+,CO-000022,ECHEVERRIA M. et Mme,2026-02-02,2026-06-10,F2026-B01,1945.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses;FactureOnglet:F2026-B01,BARROS,Facturée,Élevé
+,CO-000082,DEL HIERRO Edith,2026-03-03,2026-06-10,F2026-B01,850.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses;FactureOnglet:F2026-B01,BARROS,Facturée,Élevé
+,CO-000121,LLOPIS Yvan ,2026-02-11,2026-06-10,F2026-B01,1100.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000127,GOUIN Raymonde,2026-02-09,2026-03-08,F2026-B02,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000128,DEBAIGT Jean PIERRE,2026-02-10,2026-03-08,F2026-B02,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000129,EYHARABIDE MICHELLE,2026-02-11,2026-03-08,F2026-B02,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000130, DUVAL Claudine,2026-02-12,2026-03-08,F2026-B02,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000131,DE ALMEIDA Margarita,2026-02-13,2026-03-08,F2026-B02,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000132,SALESSES Danielle,2026-02-16,2026-03-23,F2026-B03,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000133,DUVERGER Nicole,2026-03-12,2026-04-08,F2026-B06,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000134,MELIN RICHARD,2026-02-18,2026-03-23,F2026-B03,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000135,SALABERRY Noeline,2026-02-19,2026-03-23,F2026-B03,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000136,ELIANE LACARRIEU,2026-02-20,2026-03-23,F2026-B03,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000137,VIVIANE CALDUGARAY,2026-03-02,2026-03-23,F2026-B05,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000139,MERINO EVELYNE,2026-02-23,2026-03-08,F2026-B04,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000140,ETCHEGARAY ELISABETH,2026-02-25,2026-03-08,F2026-B04,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000141,CASTAGNOS MICHEL,2026-02-24,2026-03-08,F2026-B04,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000142,LETEINTURIER JEAN PIERRE,2026-02-26,2026-03-08,F2026-B04,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000143,DEBAS JOSIANE,2026-02-27,2026-03-08,F2026-B04,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000145,MARIE LAYAN,2026-03-03,2026-03-23,F2026-B05,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000146,CATHERINE SUZANNE,2026-03-24,2026-04-08,F2026-B08,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000147,NICOLE DOYHENARD,2026-03-04,2026-03-23,F2026-B05,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000161,MADELEINE ETCHEGORRY,2026-03-05,2026-03-23,F2026-B05,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000162,BARRAU ELISABETH,2026-02-17,2026-03-23,F2026-B03,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000163,POPLEWSKI MIGUEL,2026-03-18,2026-04-08,F2026-B07,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000164,QUESADA JOSE,2026-03-25,2026-04-08,F2026-B08,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000165,BELLIARD ROLANDE,2026-03-11,2026-04-08,F2026-B06,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000166,JACQUES ROLAND,2026-03-23,2026-04-08,F2026-B07,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000167,LOPEZ JEAN PIERRE,2026-03-13,2026-04-08,F2026-B07,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000169,URRUTIA JOSE LOUIS,2026-03-09,2026-04-08,F2026-B06,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000170,LABARRERE HERMINIE,2026-03-16,2026-04-08,F2026-B07,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000171,LOSADA ALAIN,2026-03-17,2026-04-08,F2026-B07,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000172,DEL COTTO SUZY,2026-03-26,2026-04-08,F2026-B08,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000186,BRINDETLiliane,2026-04-30,2026-06-10,F2026-B01,850.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses;FactureOnglet:F2026-B01,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000189,DOYHAMBOURE Louis Michel,2026-02-10,2026-06-10,F2026-B01,850.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses;FactureOnglet:F2026-B01,BARROS,Facturée,Élevé
+,CO-000190,Martinez Jose louis,2026-02-13,2026-06-10,F2026-B01,935.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,Facturée,Élevé
+,CO-000213,DUBOURG Jacqueline,2026-05-22,,,1375.0,Non,Oui,À vérifier (Gmail indisponible),BARROS:Poses,BARROS,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+,CO-000215,"
+OLMEDO MARIBEL",2026-05-20,2026-06-10,F2026-B09,800.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses;FactureOnglet:F2026-B09,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000219,VERONIQUE RONTEIX,,2026-06-14,F2026-B10,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-B10,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000220,ODILE PERVIEUX,,2026-06-14,F2026-B10,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-B10,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000221,ERIC ET GRACE BRAJOT,,,"F2026-B11(brouillon,onglet=B10)",,Oui,Oui,À vérifier (Gmail indisponible),"FactureOnglet:F2026-B11(brouillon,onglet=B10)",BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000222,SERGE CLEE,,,"F2026-B11(brouillon,onglet=B10)",,Oui,Oui,À vérifier (Gmail indisponible),"FactureOnglet:F2026-B11(brouillon,onglet=B10)",BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000223,CHRISTOPHE LABOUYSSARIE,,,"F2026-B11(brouillon,onglet=B10)",,Oui,Oui,À vérifier (Gmail indisponible),"FactureOnglet:F2026-B11(brouillon,onglet=B10)",BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000224,ALAIN TOULOUSE,,,"F2026-B11(brouillon,onglet=B10)",,Oui,Oui,À vérifier (Gmail indisponible),"FactureOnglet:F2026-B11(brouillon,onglet=B10)",BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000225,FOURLOUBEY ANNIE FRANCE,,2026-06-14,F2026-B10,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-B10,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000227,ZANARDI Michael,,2026-06-10,F2026-B01,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-B01,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000231,KELTOUM ZITOUNI,,2026-06-14,F2026-B10,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-B10,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000232,HENRY DEBRAY,,,"F2026-B11(brouillon,onglet=B10)",,Oui,Oui,À vérifier (Gmail indisponible),"FactureOnglet:F2026-B11(brouillon,onglet=B10)",BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000233,FERNAND ET LUISA VENTURA,,2026-06-14,F2026-B10,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-B10,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000240,LEFILLIATRE FLORENCE,,2026-06-10,F2026-B09,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-B09,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000241,CLAIN JESSICA ET NICOLAS,,2026-06-10,F2026-B09,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-B09,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000242,MONTAGUT GILBERT,,2026-06-10,F2026-B09,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-B09,BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000246,ROGER RICHERT,,,"F2026-B12(brouillon,onglet=B10,0€)",,Oui,Oui,À vérifier (Gmail indisponible),"FactureOnglet:F2026-B12(brouillon,onglet=B10,0€)",BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000248,CORALIE GAUDOUT,,,"F2026-B12(brouillon,onglet=B10,0€)",,Oui,Oui,À vérifier (Gmail indisponible),"FactureOnglet:F2026-B12(brouillon,onglet=B10,0€)",BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,CO-000253,AGNES PETEL,,,"F2026-B12(brouillon,onglet=B10,0€)",,Oui,Oui,À vérifier (Gmail indisponible),"FactureOnglet:F2026-B12(brouillon,onglet=B10,0€)",BARROS,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+,N°2025-0608,BOULAY Denis,2026-01-26,2026-06-10,F2026-B01,2120.0,Oui,Oui,À vérifier (Gmail indisponible),BARROS:Poses;FactureOnglet:F2026-B01,BARROS,Facturée,Élevé
+DIA113374,,LASSUS DENIS,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:SAV,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIA113403,,LE FRANCOIS CHRISTINE,,2026-06-10,F2026-20,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-20;IRSH:NonFacture;IRSH:SAV,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIA113761,,LEMAIRE ALAIN,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:SAV,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIA113780,,FAUCONNIER GERARD ET MICHELE,,2026-06-10,F2026-20,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-20;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP133101,,GRIN NATHALIE ET LIONEL,2026-02-09,,,2600.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133141,,ZIOLKOWSKI DIDIER,2026-02-18,,,1680.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133158,,LARREDE MICHELE ET JEAN-CLAUDE,,2026-06-10,F2026-19,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-19;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP133362,,CABRIERE MARIE ET DANIEL,2026-02-16,,,1410.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133481,,SCORDO PASCAL,2026-02-09,,,900.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133517,,JAILLON CLAUDE,2026-02-23,,,700.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133660,,ATZORI OLIVIER,2026-02-20,,,1050.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133662,,ATZORI OLIVIER,2026-01-29,,,1050.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133755,,FRIMAS Bernard ,2026-01-19,2026-02-11,F2026-02-IRSH,1755.0,Oui,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,Facturée,Élevé
+DIAP133777,,CHAMPENOIS FRANCOISE,2026-02-06,,,950.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133783,,LECOQ Annick,2026-02-03,,,1280.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133795,,PEROTTINO GERARD,2026-02-17,,,1330.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133804,,CORVISIER Annie,2026-01-20,2026-02-11,F2026-02-IRSH,1050.0,Oui,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,Facturée,Élevé
+DIAP133813,,ROLLAND PHILIPPE,2026-01-16,2026-02-11,F2026-01-IRSH,700.0,Oui,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,Facturée,Élevé
+DIAP133927,,MOUHEL YVES,2026-01-14,2026-02-11,F2026-01-IRSH,900.0,Oui,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,Facturée,Élevé
+DIAP133933,,BOUCHER GILBERT,2026-02-16,,,1050.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP133969,,FROMONT CHANTALINE ET BETTOLI GERARD,2026-02-25,,,1580.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP134040,,VEUILLAULT DANIELLE,2026-01-16,2026-02-11,F2026-01-IRSH,700.0,Oui,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,Facturée,Élevé
+DIAP134041,,WORMSER CLAUDE,2026-01-28,2026-02-11,F2026-02-IRSH,750.0,Oui,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,Facturée,Élevé
+DIAP134059,,PERRIN SOPHIE,2026-02-03,,,5790.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134072,,JUZANS JOSIANE,2026-02-12,,,1220.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134080,,BIBE Paul,2026-02-02,,,1000.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP134122,,MINGAM BERTRAND ET FRANCIS,2026-03-02,,,1950.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture;IRSH:Poses,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134158,,GUIGO LORENZO FREDERIQUE,2026-02-23,,,1200.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP134199,,CLOUET CHRISTIANE,2026-02-18,,,850.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP134211,,CHAMAK Paul,2026-02-10,,,950.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP134217,,IGLESIAS MANUEL,2026-02-16,,,900.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP134242,,CASTEJON JOSEPH,2026-02-19,,,700.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP134323,,VANDURME DANIELE,2026-02-24,,,850.0,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP134381,,WEBER RAYMOND,2026-03-31,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,"À facturer (pose réalisée, aucune facture dans les fichiers)",Moyen
+DIAP134394,,Venturini Jean,,2026-06-12,F2026-24,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-24;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134403,,MANSUY OLIVIER,,2026-06-10,F2026-18,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-18;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134414,,TISSAIRE MARYSE ET MICHEL,,2026-06-12,F2026-23,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-23;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134422,,PERBOST JEAN-CLAUDE,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134429,,TISSAIRE MARYSE ET MICHEL,,2026-06-10,F2026-18,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-18;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134432,,BOURCEAU RICHARD,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134443,,COMMANDEUR COLETTE ET JEAN,2026-03-31,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:Poses,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134483,,DA SILVA SILVINO,,2026-06-10,F2026-21,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-21;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134499,,Moya rene,,2026-06-10,F2026-16,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-16;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134518,,colas guy,,2026-06-10,F2026-16,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-16;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134529,,momas michel,,2026-06-10,F2026-16,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-16;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134608,,PELUHET JEAN-MICHEL,,2026-06-12,F2026-23,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-23;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134667,,SAINT MARTIN,,2026-06-10,F2026-17,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-17;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134673,,RANDRIAMANANA MARTINE,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134675,,SUBERCAZE JEAN,,2026-06-12,F2026-23,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-23;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134682,,DISSAUX PATRICK,,2026-06-10,F2026-22,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-22;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134806,,DESLUX JEAN,,2026-06-10,F2026-17,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-17;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134822,,HOSPITAL MICHEL,,2026-06-10,F2026-17,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-17;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134837,,PANTANI ANTOINE,,2026-06-10,F2026-19,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-19;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134852,,Dalbo Mark,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134873,,PEZOT COLETTE ET JOSEPH,,2026-06-10,F2026-22,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-22;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134901,,MAYZAUD PATRICK,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134938,,VERNER ELIANE,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP134950,,HERVE JOSYANE ET REMI,,2026-06-10,F2026-22,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-22;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP134952,,Charles Alain,,2026-06-10,F2026-21,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-21;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP135008,,HERREYRE MARIETHERESE,,2026-06-10,F2026-19,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-19;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP135020,,CLAUDON NICOLE,,2026-06-12,F2026-24,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-24;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP135024,,BOUCHERARA NADIA ,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP135040,,BOUEILH PASCAL,,2026-06-10,F2026-18,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-18;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP135237,,BENEDE CATHERINE,,2026-06-12,F2026-24,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-24;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP135287,,PINCON SERGE,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAP135307,,Ponte Catherine,,2026-06-10,F2026-21,,Oui,Oui,À vérifier (Gmail indisponible),FactureOnglet:F2026-21;IRSH:NonFacture,IRSH,Anomalie détectée — facture émise mais N° retiré du suivi,Élevé
+DIAP135358,,MONTEAU ODETTE,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:NonFacture,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAR85986,,PARPAILLON PIERRETTE,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:SAV,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible
+DIAR86086,,LARROUCAU RENE,,,,,Non,Oui,À vérifier (Gmail indisponible),IRSH:SAV,IRSH,À vérifier (commande/SAV sans facture identifiée),Faible

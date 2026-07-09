@@ -1,0 +1,127 @@
+ref,prescripteur,client,cp,date_pose,montant,pose,valide,facture_flag_suivi,num_fac_suivi,invoice_tab,statut_fichiers,source,note
+CO-000022,BARROS,ECHEVERRIA M. et Mme,64240,2026-02-02T00:00:00,1945.0,OUI,NON,NON,F2026-B01,F2026-B01,Facturée (num dans suivi),BARROS:Poses;FactureOnglet:F2026-B01,
+CO-000082,BARROS,DEL HIERRO Edith,64200,2026-03-03T00:00:00,850.0,OUI,OUI,NON,F2026-B01,F2026-B01,Facturée (num dans suivi),BARROS:Poses;FactureOnglet:F2026-B01,
+CO-000121,BARROS,LLOPIS Yvan ,40090,2026-02-11T00:00:00,1100.0,NON,NON,NON,F2026-B01,,Facturée (num dans suivi),BARROS:Poses,
+CO-000127,BARROS,GOUIN Raymonde,64320,2026-02-09T00:00:00,800.0,OUI,OUI,OUI,F2026-B02,,Facturée (num dans suivi),BARROS:Poses,
+CO-000128,BARROS,DEBAIGT Jean PIERRE,64320,2026-02-10T00:00:00,800.0,OUI,OUI,OUI,F2026-B02,,Facturée (num dans suivi),BARROS:Poses,
+CO-000129,BARROS,EYHARABIDE MICHELLE,64110,2026-02-11T00:00:00,800.0,OUI,OUI,OUI,F2026-B02,,Facturée (num dans suivi),BARROS:Poses,
+CO-000130,BARROS, DUVAL Claudine,64110,2026-02-12T00:00:00,800.0,OUI,OUI,OUI,F2026-B02,,Facturée (num dans suivi),BARROS:Poses,
+CO-000131,BARROS,DE ALMEIDA Margarita,64230,2026-02-13T00:00:00,800.0,OUI,OUI,OUI,F2026-B02,,Facturée (num dans suivi),BARROS:Poses,
+CO-000132,BARROS,SALESSES Danielle,64230,2026-02-16T00:00:00,800.0,OUI,OUI,OUI,F2026-B03,,Facturée (num dans suivi),BARROS:Poses,
+CO-000133,BARROS,DUVERGER Nicole,64400,2026-03-12T00:00:00,800.0,OUI,OUI,OUI,F2026-B06,,Facturée (num dans suivi),BARROS:Poses,
+CO-000134,BARROS,MELIN RICHARD,64130,2026-02-18T00:00:00,800.0,OUI,OUI,OUI,F2026-B03,,Facturée (num dans suivi),BARROS:Poses,
+CO-000135,BARROS,SALABERRY Noeline,64130,2026-02-19T00:00:00,800.0,OUI,OUI,OUI,F2026-B03,,Facturée (num dans suivi),BARROS:Poses,
+CO-000136,BARROS,ELIANE LACARRIEU,64120,2026-02-20T00:00:00,800.0,OUI,OUI,OUI,F2026-B03,,Facturée (num dans suivi),BARROS:Poses,
+CO-000137,BARROS,VIVIANE CALDUGARAY,64120,2026-03-02T00:00:00,800.0,OUI,OUI,OUI,F2026-B05,,Facturée (num dans suivi),BARROS:Poses,
+CO-000139,BARROS,MERINO EVELYNE,64600,2026-02-23T00:00:00,800.0,OUI,OUI,OUI,F2026-B04,,Facturée (num dans suivi),BARROS:Poses,
+CO-000140,BARROS,ETCHEGARAY ELISABETH,64250,2026-02-25T00:00:00,800.0,OUI,OUI,OUI,F2026-B04,,Facturée (num dans suivi),BARROS:Poses,
+CO-000141,BARROS,CASTAGNOS MICHEL,64600,2026-02-24T00:00:00,800.0,OUI,OUI,OUI,F2026-B04,,Facturée (num dans suivi),BARROS:Poses,
+CO-000142,BARROS,LETEINTURIER JEAN PIERRE,64600,2026-02-26T00:00:00,800.0,OUI,OUI,OUI,F2026-B04,,Facturée (num dans suivi),BARROS:Poses,
+CO-000143,BARROS,DEBAS JOSIANE,64600,2026-02-27T00:00:00,800.0,OUI,OUI,OUI,F2026-B04,,Facturée (num dans suivi),BARROS:Poses,
+CO-000145,BARROS,MARIE LAYAN,64600,2026-03-03T00:00:00,800.0,OUI,OUI,OUI,F2026-B05,,Facturée (num dans suivi),BARROS:Poses,
+CO-000146,BARROS,CATHERINE SUZANNE,64600,2026-03-24T00:00:00,800.0,OUI,OUI,OUI,F2026-B08,,Facturée (num dans suivi),BARROS:Poses,
+CO-000147,BARROS,NICOLE DOYHENARD,64250,2026-03-04T00:00:00,800.0,OUI,OUI,OUI,F2026-B05,,Facturée (num dans suivi),BARROS:Poses,
+CO-000161,BARROS,MADELEINE ETCHEGORRY,64600,2026-03-05T00:00:00,800.0,OUI,OUI,OUI,F2026-B05,,Facturée (num dans suivi),BARROS:Poses,
+CO-000162,BARROS,BARRAU ELISABETH,64600,2026-02-17T00:00:00,800.0,OUI,OUI,OUI,F2026-B03,,Facturée (num dans suivi),BARROS:Poses,
+CO-000163,BARROS,POPLEWSKI MIGUEL,64500,2026-03-18T00:00:00,800.0,OUI,OUI,OUI,F2026-B07,,Facturée (num dans suivi),BARROS:Poses,
+CO-000164,BARROS,QUESADA JOSE,64500,2026-03-25T00:00:00,800.0,OUI,OUI,OUI,F2026-B08,,Facturée (num dans suivi),BARROS:Poses,
+CO-000165,BARROS,BELLIARD ROLANDE,64500,2026-03-11T00:00:00,800.0,OUI,OUI,OUI,F2026-B06,,Facturée (num dans suivi),BARROS:Poses,
+CO-000166,BARROS,JACQUES ROLAND,64500,2026-03-23T00:00:00,800.0,OUI,OUI,OUI,F2026-B07,,Facturée (num dans suivi),BARROS:Poses,
+CO-000167,BARROS,LOPEZ JEAN PIERRE,64700,2026-03-13T00:00:00,800.0,OUI,OUI,OUI,F2026-B07,,Facturée (num dans suivi),BARROS:Poses,
+CO-000169,BARROS,URRUTIA JOSE LOUIS,64500,2026-03-09T00:00:00,800.0,OUI,OUI,OUI,F2026-B06,,Facturée (num dans suivi),BARROS:Poses,
+CO-000170,BARROS,LABARRERE HERMINIE,64600,2026-03-16T00:00:00,800.0,OUI,OUI,OUI,F2026-B07,,Facturée (num dans suivi),BARROS:Poses,
+CO-000171,BARROS,LOSADA ALAIN,64500,2026-03-17T00:00:00,800.0,OUI,OUI,OUI,F2026-B07,,Facturée (num dans suivi),BARROS:Poses,
+CO-000172,BARROS,DEL COTTO SUZY,64700,2026-03-26T00:00:00,800.0,OUI,OUI,OUI,F2026-B08,,Facturée (num dans suivi),BARROS:Poses,
+CO-000186,BARROS,BRINDETLiliane,64000,2026-04-30T00:00:00,850.0,OUI,,,,F2026-B01,"Facturée (onglet, num ABSENT du suivi)",BARROS:Poses;FactureOnglet:F2026-B01,
+CO-000189,BARROS,DOYHAMBOURE Louis Michel,64100,2026-02-10T00:00:00,850.0,OUI,OUI,NON,F2026-B01,F2026-B01,Facturée (num dans suivi),BARROS:Poses;FactureOnglet:F2026-B01,
+CO-000190,BARROS,Martinez Jose louis,64990,2026-02-13T00:00:00,935.0,NON,NON,NON,F2026-B01,,Facturée (num dans suivi),BARROS:Poses,
+CO-000213,BARROS,DUBOURG Jacqueline,64110,2026-05-22T00:00:00,1375.0,OUI,,,,,"Posé, NON facturé",BARROS:Poses,
+CO-000215,BARROS,"
+OLMEDO MARIBEL",24000,2026-05-20T00:00:00,800.0,OUI,,,,F2026-B09,"Facturée (onglet, num ABSENT du suivi)",BARROS:Poses;FactureOnglet:F2026-B09,
+CO-000219,BARROS,VERONIQUE RONTEIX,,,,,,,,F2026-B10,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-B10,
+CO-000220,BARROS,ODILE PERVIEUX,,,,,,,,F2026-B10,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-B10,
+CO-000221,BARROS,ERIC ET GRACE BRAJOT,,,,,,,,"F2026-B11(brouillon,onglet=B10)","Facturée (onglet, num ABSENT du suivi)","FactureOnglet:F2026-B11(brouillon,onglet=B10)",
+CO-000222,BARROS,SERGE CLEE,,,,,,,,"F2026-B11(brouillon,onglet=B10)","Facturée (onglet, num ABSENT du suivi)","FactureOnglet:F2026-B11(brouillon,onglet=B10)",
+CO-000223,BARROS,CHRISTOPHE LABOUYSSARIE,,,,,,,,"F2026-B11(brouillon,onglet=B10)","Facturée (onglet, num ABSENT du suivi)","FactureOnglet:F2026-B11(brouillon,onglet=B10)",
+CO-000224,BARROS,ALAIN TOULOUSE,,,,,,,,"F2026-B11(brouillon,onglet=B10)","Facturée (onglet, num ABSENT du suivi)","FactureOnglet:F2026-B11(brouillon,onglet=B10)",
+CO-000225,BARROS,FOURLOUBEY ANNIE FRANCE,,,,,,,,F2026-B10,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-B10,
+CO-000227,BARROS,ZANARDI Michael,,,,,,,,F2026-B01,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-B01,
+CO-000231,BARROS,KELTOUM ZITOUNI,,,,,,,,F2026-B10,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-B10,
+CO-000232,BARROS,HENRY DEBRAY,,,,,,,,"F2026-B11(brouillon,onglet=B10)","Facturée (onglet, num ABSENT du suivi)","FactureOnglet:F2026-B11(brouillon,onglet=B10)",
+CO-000233,BARROS,FERNAND ET LUISA VENTURA,,,,,,,,F2026-B10,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-B10,
+CO-000240,BARROS,LEFILLIATRE FLORENCE,,,,,,,,F2026-B09,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-B09,
+CO-000241,BARROS,CLAIN JESSICA ET NICOLAS,,,,,,,,F2026-B09,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-B09,
+CO-000242,BARROS,MONTAGUT GILBERT,,,,,,,,F2026-B09,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-B09,
+CO-000246,BARROS,ROGER RICHERT,,,,,,,,"F2026-B12(brouillon,onglet=B10,0€)","Facturée (onglet, num ABSENT du suivi)","FactureOnglet:F2026-B12(brouillon,onglet=B10,0€)",
+CO-000248,BARROS,CORALIE GAUDOUT,,,,,,,,"F2026-B12(brouillon,onglet=B10,0€)","Facturée (onglet, num ABSENT du suivi)","FactureOnglet:F2026-B12(brouillon,onglet=B10,0€)",
+CO-000253,BARROS,AGNES PETEL,,,,,,,,"F2026-B12(brouillon,onglet=B10,0€)","Facturée (onglet, num ABSENT du suivi)","FactureOnglet:F2026-B12(brouillon,onglet=B10,0€)",
+N°2025-0608,BARROS,BOULAY Denis,64210,2026-01-26T00:00:00,2120.0,OUI,OUI,NON,F2026-B01,F2026-B01,Facturée (num dans suivi),BARROS:Poses;FactureOnglet:F2026-B01,
+DIA113374,IRSH,LASSUS DENIS,33400,,,,,,,,Commande/SAV sans facture,IRSH:SAV,SAV
+DIA113403,IRSH,LE FRANCOIS CHRISTINE,64480,,,,,,,F2026-20,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-20;IRSH:NonFacture;IRSH:SAV,liste 'non facturé'
+DIA113761,IRSH,LEMAIRE ALAIN,40330,,,,,,,,Commande/SAV sans facture,IRSH:SAV,SAV
+DIA113780,IRSH,FAUCONNIER GERARD ET MICHELE,,,,,,,,F2026-20,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-20;IRSH:NonFacture,liste 'non facturé'
+DIAP133101,IRSH,GRIN NATHALIE ET LIONEL,33710,2026-02-09T00:00:00,2600.0,OUI,NON,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133141,IRSH,ZIOLKOWSKI DIDIER,06260,2026-02-18T00:00:00,1680.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133158,IRSH,LARREDE MICHELE ET JEAN-CLAUDE,,,,,,,,F2026-19,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-19;IRSH:NonFacture,liste 'non facturé'
+DIAP133362,IRSH,CABRIERE MARIE ET DANIEL,06200,2026-02-16T00:00:00,1410.0,OUI,NON,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133481,IRSH,SCORDO PASCAL,06600,2026-02-09T00:00:00,900.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133517,IRSH,JAILLON CLAUDE,40480,2026-02-23T00:00:00,700.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133660,IRSH,ATZORI OLIVIER,83550,2026-02-20T00:00:00,1050.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133662,IRSH,ATZORI OLIVIER,83550,2026-01-29T00:00:00,1050.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133755,IRSH,FRIMAS Bernard ,06160,2026-01-19T00:00:00,1755.0,OUI,OUI,OUI,F2026-02-IRSH,,Facturée (num dans suivi),IRSH:Poses,
+DIAP133777,IRSH,CHAMPENOIS FRANCOISE,06210,2026-02-06T00:00:00,950.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133783,IRSH,LECOQ Annick,06110,2026-02-03T00:00:00,1280.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133795,IRSH,PEROTTINO GERARD,06510,2026-02-17T00:00:00,1330.0,OUI,NON,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133804,IRSH,CORVISIER Annie,06600,2026-01-20T00:00:00,1050.0,OUI,OUI,OUI,F2026-02-IRSH,,Facturée (num dans suivi),IRSH:Poses,
+DIAP133813,IRSH,ROLLAND PHILIPPE,64200.0,2026-01-16T00:00:00,700.0,OUI,OUI,OUI,F2026-01-IRSH,,Facturée (num dans suivi),IRSH:Poses,
+DIAP133927,IRSH,MOUHEL YVES,40260.0,2026-01-14T00:00:00,900.0,OUI,OUI,OUI,F2026-01-IRSH,,Facturée (num dans suivi),IRSH:Poses,
+DIAP133933,IRSH,BOUCHER GILBERT,06300,2026-02-16T00:00:00,1050.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP133969,IRSH,FROMONT CHANTALINE ET BETTOLI GERARD,06200,2026-02-25T00:00:00,1580.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP134040,IRSH,VEUILLAULT DANIELLE,64200.0,2026-01-16T00:00:00,700.0,OUI,OUI,OUI,F2026-01-IRSH,,Facturée (num dans suivi),IRSH:Poses,
+DIAP134041,IRSH,WORMSER CLAUDE,64600,2026-01-28T00:00:00,750.0,OUI,OUI,OUI,F2026-02-IRSH,,Facturée (num dans suivi),IRSH:Poses,
+DIAP134059,IRSH,PERRIN SOPHIE,64140,2026-02-03T00:00:00,5790.0,Reportée,,,,,Commande/SAV sans facture,IRSH:Poses,
+DIAP134072,IRSH,JUZANS JOSIANE,64120,2026-02-12T00:00:00,1220.0,Reportée,,,,,Commande/SAV sans facture,IRSH:Poses,
+DIAP134080,IRSH,BIBE Paul,64110,2026-02-02T00:00:00,1000.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP134122,IRSH,MINGAM BERTRAND ET FRANCIS,83000,2026-03-02T00:00:00,1950.0,Reportée,,,,,Commande/SAV sans facture,IRSH:NonFacture;IRSH:Poses,liste 'non facturé'
+DIAP134158,IRSH,GUIGO LORENZO FREDERIQUE,06600,2026-02-23T00:00:00,1200.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP134199,IRSH,CLOUET CHRISTIANE,65380,2026-02-18T00:00:00,850.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP134211,IRSH,CHAMAK Paul,06600,2026-02-10T00:00:00,950.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP134217,IRSH,IGLESIAS MANUEL,64290,2026-02-16T00:00:00,900.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP134242,IRSH,CASTEJON JOSEPH,64400,2026-02-19T00:00:00,700.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP134323,IRSH,VANDURME DANIELE,06150,2026-02-24T00:00:00,850.0,OUI,OUI,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP134381,IRSH,WEBER RAYMOND,64320,2026-03-31T00:00:00,,OUI,,,,,"Posé, NON facturé",IRSH:Poses,
+DIAP134394,IRSH,Venturini Jean,,,,,,,,F2026-24,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-24;IRSH:NonFacture,liste 'non facturé'
+DIAP134403,IRSH,MANSUY OLIVIER,,,,,,,,F2026-18,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-18;IRSH:NonFacture,liste 'non facturé'
+DIAP134414,IRSH,TISSAIRE MARYSE ET MICHEL,,,,,,,,F2026-23,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-23;IRSH:NonFacture,liste 'non facturé'
+DIAP134422,IRSH,PERBOST JEAN-CLAUDE,,,,,,,,,Commande/SAV sans facture,IRSH:NonFacture,liste 'non facturé'
+DIAP134429,IRSH,TISSAIRE MARYSE ET MICHEL,,,,,,,,F2026-18,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-18;IRSH:NonFacture,liste 'non facturé'
+DIAP134432,IRSH,BOURCEAU RICHARD,,,,,,,,,Commande/SAV sans facture,IRSH:NonFacture,liste 'non facturé'
+DIAP134443,IRSH,COMMANDEUR COLETTE ET JEAN,83250,2026-03-31T00:00:00,,,,,,,Commande/SAV sans facture,IRSH:Poses,
+DIAP134483,IRSH,DA SILVA SILVINO,,,,,,,,F2026-21,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-21;IRSH:NonFacture,liste 'non facturé'
+DIAP134499,IRSH,Moya rene,,,,,,,,F2026-16,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-16;IRSH:NonFacture,liste 'non facturé'
+DIAP134518,IRSH,colas guy,,,,,,,,F2026-16,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-16;IRSH:NonFacture,liste 'non facturé'
+DIAP134529,IRSH,momas michel,,,,,,,,F2026-16,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-16;IRSH:NonFacture,liste 'non facturé'
+DIAP134608,IRSH,PELUHET JEAN-MICHEL,,,,,,,,F2026-23,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-23;IRSH:NonFacture,liste 'non facturé'
+DIAP134667,IRSH,SAINT MARTIN,,,,,,,,F2026-17,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-17;IRSH:NonFacture,liste 'non facturé'
+DIAP134673,IRSH,RANDRIAMANANA MARTINE,,,,,,,,,Commande/SAV sans facture,IRSH:NonFacture,liste 'non facturé'
+DIAP134675,IRSH,SUBERCAZE JEAN,,,,,,,,F2026-23,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-23;IRSH:NonFacture,liste 'non facturé'
+DIAP134682,IRSH,DISSAUX PATRICK,,,,,,,,F2026-22,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-22;IRSH:NonFacture,liste 'non facturé'
+DIAP134806,IRSH,DESLUX JEAN,,,,,,,,F2026-17,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-17;IRSH:NonFacture,liste 'non facturé'
+DIAP134822,IRSH,HOSPITAL MICHEL,,,,,,,,F2026-17,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-17;IRSH:NonFacture,liste 'non facturé'
+DIAP134837,IRSH,PANTANI ANTOINE,,,,,,,,F2026-19,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-19;IRSH:NonFacture,liste 'non facturé'
+DIAP134852,IRSH,Dalbo Mark,,,,,,,,,Commande/SAV sans facture,IRSH:NonFacture,liste 'non facturé'
+DIAP134873,IRSH,PEZOT COLETTE ET JOSEPH,,,,,,,,F2026-22,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-22;IRSH:NonFacture,liste 'non facturé'
+DIAP134901,IRSH,MAYZAUD PATRICK,,,,,,,,,Commande/SAV sans facture,IRSH:NonFacture,liste 'non facturé'
+DIAP134938,IRSH,VERNER ELIANE,,,,,,,,,Commande/SAV sans facture,IRSH:NonFacture,liste 'non facturé'
+DIAP134950,IRSH,HERVE JOSYANE ET REMI,,,,,,,,F2026-22,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-22;IRSH:NonFacture,liste 'non facturé'
+DIAP134952,IRSH,Charles Alain,,,,,,,,F2026-21,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-21;IRSH:NonFacture,liste 'non facturé'
+DIAP135008,IRSH,HERREYRE MARIETHERESE,,,,,,,,F2026-19,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-19;IRSH:NonFacture,liste 'non facturé'
+DIAP135020,IRSH,CLAUDON NICOLE,,,,,,,,F2026-24,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-24;IRSH:NonFacture,liste 'non facturé'
+DIAP135024,IRSH,BOUCHERARA NADIA ,,,,,,,,,Commande/SAV sans facture,IRSH:NonFacture,liste 'non facturé'
+DIAP135040,IRSH,BOUEILH PASCAL,,,,,,,,F2026-18,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-18;IRSH:NonFacture,liste 'non facturé'
+DIAP135237,IRSH,BENEDE CATHERINE,,,,,,,,F2026-24,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-24;IRSH:NonFacture,liste 'non facturé'
+DIAP135287,IRSH,PINCON SERGE,,,,,,,,,Commande/SAV sans facture,IRSH:NonFacture,liste 'non facturé'
+DIAP135307,IRSH,Ponte Catherine,,,,,,,,F2026-21,"Facturée (onglet, num ABSENT du suivi)",FactureOnglet:F2026-21;IRSH:NonFacture,liste 'non facturé'
+DIAP135358,IRSH,MONTEAU ODETTE,,,,,,,,,Commande/SAV sans facture,IRSH:NonFacture,liste 'non facturé'
+DIAR85986,IRSH,PARPAILLON PIERRETTE,64600,,,,,,,,Commande/SAV sans facture,IRSH:SAV,SAV
+DIAR86086,IRSH,LARROUCAU RENE,64330,,,,,,,,Commande/SAV sans facture,IRSH:SAV,SAV

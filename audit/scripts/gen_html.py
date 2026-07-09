@@ -61,8 +61,11 @@ input[type=text]{min-width:220px;flex:1}
 .wrap{overflow-x:auto;background:var(--card);border:1px solid var(--bd);border-radius:10px}
 table{border-collapse:collapse;width:100%;min-width:680px}
 th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--bd);font-size:13px;vertical-align:top}
-th{position:sticky;top:0;background:var(--card);cursor:pointer;white-space:nowrap}
-tr:hover td{background:rgba(127,127,127,.06)}
+th{position:sticky;top:0;background:var(--card);cursor:pointer;white-space:nowrap;color:var(--mut);font-size:12px;text-transform:uppercase;letter-spacing:.3px}
+tbody tr:nth-child(even) td{background:rgba(127,127,127,.045)}
+tbody tr:hover td{background:rgba(90,162,230,.14)}
+td b{color:var(--ac);font-weight:700}
+.wrap td:first-child b{font-size:13.5px}
 .badge{padding:3px 9px;border-radius:20px;font-size:11px;font-weight:700;white-space:nowrap;border:1px solid transparent}
 .b-oui{background:var(--red-bg);color:var(--red-tx);border-color:var(--red)}
 .b-non{background:var(--grn-bg);color:var(--grn-tx);border-color:var(--grn)}

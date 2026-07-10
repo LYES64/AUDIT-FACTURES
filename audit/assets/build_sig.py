@@ -24,8 +24,8 @@ TPL='''<!doctype html><meta charset="utf-8">
  .line{{font-size:13px;color:#33414a;line-height:1.95;display:flex;align-items:center;gap:9px}}
  .line svg{{flex:none}}
  a{{color:#0F3B45;text-decoration:none}}
- .bath{{width:196px;flex:none}}
- .bath svg{{width:196px;height:auto;display:block;border-radius:14px;box-shadow:0 6px 18px rgba(15,59,69,.16)}}
+ .bath{{width:212px;height:176px;flex:none;border-radius:14px;overflow:hidden;box-shadow:0 6px 18px rgba(15,59,69,.18);border:3px solid #ffffff;outline:1px solid #e3ebec}}
+ .bath img{{width:100%;height:100%;object-fit:cover;object-position:47% 58%;display:block}}
  .foot{{font-size:10.5px;color:#8a99a0;margin-top:14px;line-height:1.5}}
  .foot b{{color:#0F3B45}}
 </style>
@@ -41,7 +41,7 @@ TPL='''<!doctype html><meta charset="utf-8">
       <div class="line">{ic_pin} <span>2 impasse Joliot Curie, 64110 Juran&ccedil;on</span></div>
       <div class="line">{ic_web} <a href="https://adomsenior.fr">adomsenior.fr</a></div>
     </div>
-    <div class="bath">{bath}</div>
+    <div class="bath"><img src="douche.jpg" alt="Douche s&eacute;curis&eacute;e"></div>
   </div>
   <div class="foot"><b>Bien chez soi</b> &mdash; Am&eacute;nagement &amp; adaptation du logement des seniors &middot; Douches s&eacute;curis&eacute;es.<br>
   SIRET 849&nbsp;109&nbsp;558&nbsp;00023 &middot; Ce message et ses pi&egrave;ces jointes sont confidentiels.</div>

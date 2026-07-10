@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 110" width="470" height="110">
+  <!-- icon -->
+  <rect x="6" y="10" width="92" height="92" rx="22" fill="#0F3B45"/>
+  <!-- roof / house -->
+  <path d="M23 62 L52 34 L81 62" fill="none" stroke="#ffffff" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- shower tray -->
+  <rect x="33" y="60" width="38" height="24" rx="7" fill="none" stroke="#8f9ea4" stroke-width="4.5"/>
+  <!-- water drop -->
+  <path d="M52 62 C58 70 61 74 61 78 a9 9 0 0 1 -18 0 c0 -4 3 -8 9 -16 Z" fill="#DB8A38"/>
+  <!-- wordmark -->
+  <text x="120" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">
+    <tspan fill="#17242B">Adom</tspan><tspan fill="#DB8A38">senior</tspan>
+  </text>
+</svg>

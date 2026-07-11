@@ -19,19 +19,23 @@ Sources : (1) boîte mail `ets.lyessanitaire@gmail.com` — *source de vérité*
 
 ## 1bis. Rapprochement DIA → chantier → facture (re-traité 11/07/2026, base = MAILS)
 
-**Méthode (à la demande) :** on ne se fie **plus au fichier `Suivi_IRSH_2026.xlsx`** (incomplet : DIA et factures manquantes). La comparaison est reconstruite **entièrement depuis Gmail** :
+**Méthode (à la demande) :** on ne se fie **plus au fichier `Suivi_IRSH_2026.xlsx`** (incomplet). La comparaison est reconstruite **entièrement depuis Gmail**, croisée avec le **CRM Compiexe** (le CRM d'IRSH — *InterFast n'est pas une source de données, c'est l'outil de facturation*).
 - **Côté DIA** : toutes les DIA reçues depuis le 01/01/2026 (`information@independanceroyale.com`, objet « Votre DIA … / DIA[P/R/V]xxxxx CLIENT »).
-- **Côté factures** : correspondance **facture → chantier → DIA** confirmée par les mails de la **compta IRSH** (Camille BUSTREAU : point 18/06 + 09/07, point compta du **17/04** qui détaille chaque F1225-xx et F2026-03→14 par dossier/DIA) + envois de factures.
+- **Côté factures** : correspondance **facture → chantier → DIA** confirmée par les mails de la **compta IRSH** (Camille BUSTREAU : point compta du **17/04** détaillant F1225-xx et F2026-03→14 ; points 18/06 + 09/07) + envois de factures — voir onglet **Preuves (mails)** de l'outil (chaque preuve est cliquable et ouvrable dans Gmail).
 - **Clé de rapprochement** : le **nom de chantier** (clé principale, car le n° DIA n'est pas toujours porté sur la facture) **et** le **n° DIA** (clé secondaire).
-- **Preuve de pose** (facturable) : **CRM InterFast** (`Posée/Effectuée`) + poses signalées dans les mails/brouillon de juin.
+- **Règle de pose validée par le client — dès que la DATE RDV pose est passée, l'intervention est réputée réalisée** (les statuts de l'export CRM Compiexe ne sont pas à jour). Export CRM Compiexe **du 11/07/2026**.
+- **Factures créées dans InterFast** (invisibles dans Gmail) signalées par le client et intégrées : BARTH, BOUCHERARA (×2), ANORGA, DRAMCOURT, NOBLET, JACQUEMIN, VENTURINI → **Facturé**. Pour **PINCON** et **MAILLON**, seules les **DIAV (SAV)** ont été facturées → dossiers gardés en « poses à facturer » avec note.
 
-**Résultat (147 dossiers) :**
+**Résultat (147 dossiers, CRM Compiexe au 11/07/2026) :**
 | Statut de facturation | Nb |
 |---|---:|
-| ✅ **Facturé** (n° de facture rattaché, corroboré mail) | **43** |
-| 🔴 **Réalisé (posé) mais NON facturé** → à facturer | **23** |
-| 🔵 En cours — pas encore posé | 27 |
-| 🟠 Commande reçue — à vérifier | 54 |
+| ✅ **Facturé** (n° rattaché mail, ou facture InterFast signalée) | **49** |
+| 🔴 **Réalisé (posé) mais NON facturé** → à facturer | **27** |
+| 🔵 En cours — pas encore posé (RDV à venir) | 22 |
+| 🟠 Commande reçue — à vérifier | 49 |
+
+> ⚠️ Dans l'outil, la colonne **« Posé ? » est modifiable** : si le CRM Compiexe se trompe, passez la case à « Non » et le statut de facturation se recalcule automatiquement (mémorisé sur le poste).
+> ⚠️ Attention au **type** (colonne CRM) : certains non-facturés sont des **SAV / REWORK / VISAP** (ex. ABELLAN, BONETTO, DUBOUE) — pas toujours facturables comme une pose neuve.
 
 ➡️ Voir l'onglet **« ⚠️ Non facturés »** de `Audit_Factures_outil.html` et le fichier **`IRSH_Non_factures_2026.csv`**. Mapping complet dans **`IRSH_DIA_chantier_facture_2026.csv`**.
 

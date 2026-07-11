@@ -17,6 +17,36 @@ Sources : (1) boîte mail `ets.lyessanitaire@gmail.com` — *source de vérité*
 
 ---
 
+## 1bis. Rapprochement DIA → chantier → facture (re-traité 11/07/2026, base = MAILS)
+
+**Méthode (à la demande) :** on ne se fie **plus au fichier `Suivi_IRSH_2026.xlsx`** (incomplet : DIA et factures manquantes). La comparaison est reconstruite **entièrement depuis Gmail** :
+- **Côté DIA** : toutes les DIA reçues depuis le 01/01/2026 (`information@independanceroyale.com`, objet « Votre DIA … / DIA[P/R/V]xxxxx CLIENT »).
+- **Côté factures** : correspondance **facture → chantier → DIA** confirmée par les mails de la **compta IRSH** (Camille BUSTREAU : point 18/06 + 09/07, point compta du **17/04** qui détaille chaque F1225-xx et F2026-03→14 par dossier/DIA) + envois de factures.
+- **Clé de rapprochement** : le **nom de chantier** (clé principale, car le n° DIA n'est pas toujours porté sur la facture) **et** le **n° DIA** (clé secondaire).
+- **Preuve de pose** (facturable) : **CRM InterFast** (`Posée/Effectuée`) + poses signalées dans les mails/brouillon de juin.
+
+**Résultat (147 dossiers) :**
+| Statut de facturation | Nb |
+|---|---:|
+| ✅ **Facturé** (n° de facture rattaché, corroboré mail) | **43** |
+| 🔴 **Réalisé (posé) mais NON facturé** → à facturer | **23** |
+| 🔵 En cours — pas encore posé | 27 |
+| 🟠 Commande reçue — à vérifier | 54 |
+
+➡️ Voir l'onglet **« ⚠️ Non facturés »** de `Audit_Factures_outil.html` et le fichier **`IRSH_Non_factures_2026.csv`**. Mapping complet dans **`IRSH_DIA_chantier_facture_2026.csv`**.
+
+### Les 23 dossiers posés NON facturés (à reprendre à partir de F2026-25)
+Confirmés **CRM InterFast** : BARTH JANINE, BONETTO STEPHANE, CARRE LUCIE, DAL BO MARC, DRAMCOURT JOCELYNE ET FABRICE, DUGUET MURIEL ET LE BORGNE YVES, HARCAUT ODETTE, LEVY RENE, MAILLON EDDY, MEOULE FABIENNE ET ROLAND, PATIES MARIE-AGNES ET GILBERT, PECQUERY THERESE ET GILES, PINCON SERGE, SALLENAVE CHRISTIANE.
+Signalés **poses juin (mails/brouillon)** : BOUCHERARA NADIA, BOURCEAU RICHARD, DALBO MARC, MAYZAUD PATRICK, MINGAM BERTRAND ET FRANCIS, MONTEAU ODETTE, PERBOST JEAN-CLAUDE, RANDRIAMANANA MARTINE, VERNER ELIANE.
+
+### Factures ↔ chantiers confirmés par mail (extrait)
+- **F1225-02** PERRIERE · **F1225-08** RAINAUD · **F1225-10** DARMENDRAIL · **F1225-14** PARPAILLON · **F1225-15** MANEVIT · **F1225-16** JEANJEAN + VERRIER · **F1225-18** BAUER.
+- **F2026-03** LECOQ + CHAMPENOIS · **F2026-08** GRIN · **F2026-10** COMMANDEUR · **F2026-11** PASTORINO · **F2026-12** ATZORI · **F2026-13** CABRIERE · **F2026-14** PERRIN · **F2026-15** DARMENDRAIL (compl.).
+- **F2026-16** MOMAS/COLAS/MOYA · **F2026-17** SAINT-MARTIN/DESLUX/HOSPITAL · **F2026-18** MANSUY/TISSAIRE/BOUEILH · **F2026-19** HERREYRE/LARREDE/PANTANI · **F2026-20** LE FRANCOIS/FAUCONNIER · **F2026-21** CHARLES/PONTE/DA SILVA · **F2026-22** DISSAUX/HERVE/PEZOT · **F2026-23** PELUHET/TISSAIRE/SUBERCAZE · **F2026-24** CLAUDON/VENTURINI/BENEDE.
+- **F2026-04/05/06/07** : factures émises le 09/03 (PDF), chantiers = poses de février (à confirmer sur PDF ; sans incidence sur les non-facturés).
+
+---
+
 ## 2. Chiffres clés IRSH 2026 (croisés mail + fichier + CRM)
 
 | Indicateur | Valeur |

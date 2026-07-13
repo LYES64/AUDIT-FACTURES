@@ -28,6 +28,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (26/12/2025)",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -56,6 +57,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "facture créée dans InterFast",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -84,6 +86,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -112,6 +115,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -140,6 +144,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -169,6 +174,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -197,6 +203,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -225,6 +232,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (09/12/2025) · CRM Compiexe : Posée/Effectuée · facture créée dans InterFast",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -261,6 +269,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (20/04/2026) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -289,6 +298,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -317,6 +327,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -345,6 +356,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -373,6 +385,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (21/05/2025) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -402,6 +415,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -430,6 +444,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -459,6 +474,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -488,6 +504,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (25/06/2026) · CRM Compiexe : Posée/Effectuée · mail/brouillon 06-2026 · facture créée dans InterFast",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -535,6 +552,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -564,6 +582,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "mail/brouillon 06-2026",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -592,6 +611,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -620,6 +640,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -649,6 +670,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -678,6 +700,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -706,6 +729,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (06/11/2025) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -734,6 +758,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -762,6 +787,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -790,6 +816,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -818,6 +845,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -846,6 +874,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -887,6 +916,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -922,6 +952,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -950,6 +981,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -978,6 +1010,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1020,6 +1053,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -1048,6 +1082,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (02/07/2025)",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1083,6 +1118,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -1111,6 +1147,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1139,6 +1176,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1182,6 +1220,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (25/04/2026)",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -1217,6 +1256,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (09/07/2026) · CRM Compiexe : Posée/Effectuée · mail/brouillon 06-2026",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1246,6 +1286,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1274,6 +1315,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "mail/brouillon 06-2026",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1302,6 +1344,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1344,6 +1387,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -1372,6 +1416,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1414,6 +1459,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1455,6 +1501,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1484,6 +1531,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (01/07/2026) · CRM Compiexe : Posée/Effectuée · facture créée dans InterFast",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1520,6 +1568,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (20/04/2026)",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1548,6 +1597,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (20/12/2025) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1576,6 +1626,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1604,6 +1655,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1632,6 +1684,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1660,6 +1713,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1688,6 +1742,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (15/09/2025)",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1723,6 +1778,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1751,6 +1807,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1779,6 +1836,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1808,6 +1866,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1836,6 +1895,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1864,6 +1924,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (10/07/2026)",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1893,6 +1954,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1921,6 +1983,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -1951,6 +2014,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -1979,6 +2043,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2008,6 +2073,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2036,6 +2102,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2064,6 +2131,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (04/07/2025) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2105,6 +2173,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -2146,6 +2215,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2174,6 +2244,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2216,6 +2287,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2244,6 +2316,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2272,6 +2345,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2300,6 +2374,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (07/07/2026) · CRM Compiexe : Posée/Effectuée · facture créée dans InterFast",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2328,6 +2403,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2356,6 +2432,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2384,6 +2461,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2412,6 +2490,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2447,6 +2526,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -2476,6 +2556,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2504,6 +2585,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2540,6 +2622,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2570,6 +2653,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -2598,6 +2682,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (20/03/2026)",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2626,6 +2711,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2654,6 +2740,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2682,6 +2769,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2711,6 +2799,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2740,6 +2829,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (24/04/2026) · CRM Compiexe : Posée/Effectuée · DIAV/SAV facturée dans InterFast (poses à facturer)",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2768,6 +2858,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2810,6 +2901,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -2838,6 +2930,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2867,6 +2960,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "mail/brouillon 06-2026",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2895,6 +2989,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2923,6 +3018,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (27/11/2024) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2951,6 +3047,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -2980,6 +3077,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "mail/brouillon 06-2026",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3016,6 +3114,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -3044,6 +3143,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "mail/brouillon 06-2026",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3072,6 +3172,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3107,6 +3208,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -3135,6 +3237,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (02/07/2026) · CRM Compiexe : Posée/Effectuée · facture créée dans InterFast",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3177,6 +3280,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -3206,6 +3310,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (23/01/2026)",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -3234,6 +3339,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -3262,6 +3368,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (03/07/2026) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3290,6 +3397,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (03/11/2025) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3333,6 +3441,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -3368,6 +3477,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "mail/brouillon 06-2026",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3396,6 +3506,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3431,6 +3542,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -3467,6 +3579,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -3495,6 +3608,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3537,6 +3651,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (03/07/2026) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3577,6 +3692,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (29/06/2026) · CRM Compiexe : Posée/Effectuée · DIAV/SAV facturée dans InterFast (poses à facturer)",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3605,6 +3721,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3647,6 +3764,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -3676,6 +3794,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (05/06/2026) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3705,6 +3824,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3734,6 +3854,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (26/06/2026) · mail/brouillon 06-2026",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3763,6 +3884,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3791,6 +3913,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3832,6 +3955,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3860,6 +3984,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3888,6 +4013,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "RDV pose passé (04/11/2024) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3916,6 +4042,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3945,6 +4072,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -3974,6 +4102,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4002,6 +4131,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4044,6 +4174,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -4072,6 +4203,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4102,6 +4234,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4150,6 +4283,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -4178,6 +4312,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4220,6 +4355,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "RDV pose passé (09/07/2026) · CRM Compiexe : Posée/Effectuée",
+   "afac_def": "Oui",
    "proof": "p-0618"
   },
   {
@@ -4248,6 +4384,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4276,6 +4413,7 @@
    "fstat": "Réalisée — NON facturée",
    "pose": "Oui",
    "pose_src": "mail/brouillon 06-2026",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4304,6 +4442,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": "p-0417"
   },
   {
@@ -4333,6 +4472,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4361,6 +4501,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4389,6 +4530,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4418,6 +4560,7 @@
    "fstat": "Facturé",
    "pose": "Oui",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4446,6 +4589,7 @@
    "fstat": "En cours — pas encore posée",
    "pose": "Non",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4474,6 +4618,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4502,6 +4647,7 @@
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
    "pose_src": "",
+   "afac_def": "Oui",
    "proof": ""
   },
   {
@@ -4527,6 +4673,7 @@
    "rdv": "",
    "future": false,
    "enc": true,
+   "afac_def": "Oui",
    "fstat": "En cours — pas encore posée",
    "pose": "À vérifier",
    "pose_src": "",

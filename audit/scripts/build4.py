@@ -152,6 +152,7 @@ for r in D:
     if r.get("crm_status") == "Posée/Effectuée": src.append("CRM Compiexe : Posée/Effectuée")
     if any(f in client_up for f in POSE_SIGNALEE): src.append("mail/brouillon 06-2026")
     r["pose_src"] = " · ".join(dict.fromkeys(src))
+    r["afac_def"] = "Oui"   # par défaut à facturer ; le client passe à Non au cas par cas
 
 # --- Corrections client (11/07) : factures créées dans InterFast, invisibles dans Gmail ---
 MANUAL_FACTURE_FULL = ["BARTH", "BOUCHERARA", "ANORGA", "DRAMCOURT", "NOBLET", "JACQUEMIN"]
@@ -190,6 +191,7 @@ for k, c in CRM.items():
         "invoice": match_invoice(c["client"]), "in_files": False, "in_mail": False, "in_crm": True,
         "status": "CRM " + c["statut"], "a_facturer": "", "evidence": [], "rdv": c["rdv"],
         "future": fut, "enc": enc,
+        "afac_def": "Oui",
         "fstat": fstat, "pose": "Oui" if realized else ("Non" if fut else "À vérifier"),
         "pose_src": ("RDV pose passé (" + c["rdv"] + ")") if (rdv_d and rdv_d < TODAY) else ("CRM Posée/Effectuée" if c["statut"] == "Posée/Effectuée" else ""),
     })
@@ -202,7 +204,7 @@ for client, cp, dia, od in NEW:
                   "order_date": od, "crm_type": "", "crm_status": "", "crm_date": "", "pose_date": "",
                   "montant": "", "invoice": "", "in_files": False, "in_mail": True, "in_crm": False,
                   "status": "Commande reçue (mail)", "a_facturer": "À vérifier", "evidence": [],
-                  "rdv": "", "future": False, "enc": True,
+                  "rdv": "", "future": False, "enc": True, "afac_def": "Oui",
                   "fstat": "En cours — pas encore posée", "pose": "Non", "pose_src": ""})
 
 # ---------------------------------------------------------------------------

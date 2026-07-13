@@ -1,0 +1,41 @@
+{
+ "pose": {
+  "DIA113062": "Oui",
+  "DIAP134432": "Oui",
+  "DIAL10870": "À vérifier",
+  "DIAR135504": "Oui",
+  "DIAP135298": "Oui",
+  "DIAP134901": "Oui",
+  "DIAP135358": "À vérifier",
+  "DIA113370": "Oui"
+ },
+ "fac": {
+  "DIA113062": "oui",
+  "DIAR85639": "oui",
+  "DIAR85926": "oui",
+  "DIAP134852": "oui",
+  "DIAR86006": "oui",
+  "DIAP132466": "oui",
+  "DIAP135298": "oui",
+  "DIAR85756": "oui",
+  "DIAP135331": "oui",
+  "DIAP135096": "oui",
+  "DIAP129925": "oui",
+  "DIA113690": "oui",
+  "DIAP134422": "oui",
+  "DIAR85233": "oui",
+  "DIAP134938": "oui",
+  "DIAP134901": "oui",
+  "DIAP134432": "oui",
+  "DIAR135504": "oui",
+  "DIA113370": "oui"
+ },
+ "afac": {
+  "DIAR85881": "Non",
+  "DIA113761": "Non",
+  "DIAP134122": "Non",
+  "DIAR85913": "Non"
+ },
+ "exported": "2026-07-13T13:24:38.347Z",
+ "tool": "audit-factures-v4"
+}

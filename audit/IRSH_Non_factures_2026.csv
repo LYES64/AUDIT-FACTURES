@@ -1,27 +1,3 @@
-Nom de chantier,N° DIA,Dépt,RDV pose,Type CRM,Statut CRM Compiexe,Justificatif
-ABELLAN HUBERT,DIA113062,65,26/12/2025,SAV,Planifiée,RDV pose passé (26/12/2025)
-BONETTO STEPHANE,DIAR85639,06,21/05/2025,REWORK,Posée/Effectuée,RDV pose passé (21/05/2025) · CRM Compiexe : Posée/Effectuée
-BOURCEAU RICHARD,DIAP134432 ; DIAR86319,83,20/07/2026,REWORK,Planifiée,mail/brouillon 06-2026
-CARRE LUCIE,DIAR85926,06,06/11/2025,REWORK,Posée/Effectuée,RDV pose passé (06/11/2025) · CRM Compiexe : Posée/Effectuée
-COLINET PHILIPPE,DIAL10870,64,02/07/2025,ZAUTRE,Planifiée,RDV pose passé (02/07/2025)
-DAL BO MARC,DIAR135504,06,09/07/2026,REWORK,Posée/Effectuée,RDV pose passé (09/07/2026) · CRM Compiexe : Posée/Effectuée · mail/brouillon 06-2026
-DALBO MARC,DIAP134852,06,,,,mail/brouillon 06-2026
-DUGUET MURIEL ET LE BORGNE YVES,DIAR85881,64,20/12/2025,REWORK,Posée/Effectuée,RDV pose passé (20/12/2025) · CRM Compiexe : Posée/Effectuée
-FAUCHER EMILE,DIAP132466,06,15/09/2025,POSE,Planifiée,RDV pose passé (15/09/2025)
-GHARBI AZIZA,DIAP135298,06,10/07/2026,POSE,Planifiée,RDV pose passé (10/07/2026)
-HARCAUT ODETTE,DIAR85756,64,04/07/2025,REWORK,Posée/Effectuée,RDV pose passé (04/07/2025) · CRM Compiexe : Posée/Effectuée
-LEMAIRE ALAIN,DIA113761,40,20/03/2026,SAV,Planifiée,RDV pose passé (20/03/2026)
-LEVY RENE,DIAP135331,40,15/07/2026,POSE,Posée/Effectuée,CRM Compiexe : Posée/Effectuée
-MAILLON EDDY,DIAP135096 ; DIAV11427,06,24/04/2026,VISAP,Posée/Effectuée,RDV pose passé (24/04/2026) · CRM Compiexe : Posée/Effectuée · DIAV/SAV facturée dans InterFast (poses à facturer)
-MAYZAUD PATRICK,DIAP134901 ; DIAR135514,06,24/07/2026,REWORK,Planifiée,mail/brouillon 06-2026
-MEOULE FABIENNE ET ROLAND,DIAP129925,64,27/11/2024,POSE,Posée/Effectuée,RDV pose passé (27/11/2024) · CRM Compiexe : Posée/Effectuée
-MINGAM BERTRAND ET FRANCIS,DIAP134122 ; DIAR86178,83,21/07/2026,REWORK,Planifiée,mail/brouillon 06-2026
-MONTEAU ODETTE,DIAP135358,,,,,mail/brouillon 06-2026
-PATIES MARIE-AGNES ET GILBERT,DIA113690,06,03/07/2026,SAV,Posée/Effectuée,RDV pose passé (03/07/2026) · CRM Compiexe : Posée/Effectuée
-PECQUERY THERESE ET GILES,DIAR85913,40,03/11/2025,REWORK,Posée/Effectuée,RDV pose passé (03/11/2025) · CRM Compiexe : Posée/Effectuée
-PERBOST JEAN-CLAUDE,DIAP134422,83,,,,mail/brouillon 06-2026
-PINCON SERGE,DIAP135285 ; DIAP135287 ; DIAR86325 ; DIAR86336 ; DIAV11424 ; DIAV11425,83,29/06/2026,VISAP,Posée/Effectuée,RDV pose passé (29/06/2026) · CRM Compiexe : Posée/Effectuée · DIAV/SAV facturée dans InterFast (poses à facturer)
-PREVE ALAIN,DIA113370 ; DIA113847,06,05/06/2026,SAV,Posée/Effectuée,RDV pose passé (05/06/2026) · CRM Compiexe : Posée/Effectuée
-RANDRIAMANANA MARTINE,DIAP134673 ; DIAR86226,06,26/06/2026,REWORK,Planifiée,RDV pose passé (26/06/2026) · mail/brouillon 06-2026
-SALLENAVE CHRISTIANE,DIAR85233,65,04/11/2024,REWORK,Posée/Effectuée,RDV pose passé (04/11/2024) · CRM Compiexe : Posée/Effectuée
-VERNER ELIANE,DIAP134938,83,,,,mail/brouillon 06-2026
+Nom de chantier,N° DIA,Dépt,RDV pose,Justificatif
+PINCON SERGE,DIAP135285 ; DIAP135287 ; DIAR86325 ; DIAR86336 ; DIAV11424 ; DIAV11425,83,29/06/2026,RDV pose passé (29/06/2026) · CRM Compiexe : Posée/Effectuée · DIAV/SAV facturée dans InterFast (poses à facturer)
+RANDRIAMANANA MARTINE,DIAP134673 ; DIAR86226,06,26/06/2026,RDV pose passé (26/06/2026) · mail/brouillon 06-2026

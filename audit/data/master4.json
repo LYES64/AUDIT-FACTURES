@@ -15,7 +15,7 @@
    "crm_date": "26/12/2025",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -25,11 +25,12 @@
    "rdv": "26/12/2025",
    "future": false,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (26/12/2025)",
+   "pose_src": "RDV pose passé (26/12/2025) · Saisie manuelle client (Posé=Oui, Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "ANORGA",
@@ -377,7 +378,7 @@
    "crm_date": "21/05/2025",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -387,11 +388,12 @@
    "rdv": "21/05/2025",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (21/05/2025) · CRM Compiexe : Posée/Effectuée",
+   "pose_src": "RDV pose passé (21/05/2025) · CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "BONJEAN",
@@ -576,7 +578,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": true,
    "in_mail": true,
    "in_crm": true,
@@ -586,11 +588,12 @@
    "rdv": "20/07/2026",
    "future": true,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "mail/brouillon 06-2026",
+   "pose_src": "mail/brouillon 06-2026 · Saisie manuelle client (Posé=Oui, Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "BRUZEAUD",
@@ -724,7 +727,7 @@
    "crm_date": "06/11/2025",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -734,11 +737,12 @@
    "rdv": "06/11/2025",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (06/11/2025) · CRM Compiexe : Posée/Effectuée",
+   "pose_src": "RDV pose passé (06/11/2025) · CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "CASERIO",
@@ -1091,11 +1095,12 @@
    "rdv": "02/07/2025",
    "future": false,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
-   "pose": "Oui",
-   "pose_src": "RDV pose passé (02/07/2025)",
+   "fstat": "Commande reçue — à vérifier",
+   "pose": "À vérifier",
+   "pose_src": "RDV pose passé (02/07/2025) · Saisie manuelle client (Posé=À vérifier)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "COMMANDEUR",
@@ -1249,7 +1254,7 @@
    "crm_date": "09/07/2026",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -1266,11 +1271,12 @@
    "rdv": "09/07/2026",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (09/07/2026) · CRM Compiexe : Posée/Effectuée · mail/brouillon 06-2026",
+   "pose_src": "RDV pose passé (09/07/2026) · CRM Compiexe : Posée/Effectuée · mail/brouillon 06-2026 · Saisie manuelle client (Posé=Oui, Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "DAL-BO",
@@ -1316,7 +1322,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": true,
    "in_mail": true,
    "in_crm": false,
@@ -1326,11 +1332,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "mail/brouillon 06-2026",
+   "pose_src": "mail/brouillon 06-2026 · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "DARMAGNAC",
@@ -1564,7 +1571,7 @@
    "crm_date": "20/04/2026",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -1581,12 +1588,13 @@
    "rdv": "20/04/2026",
    "future": false,
    "enc": true,
-   "fstat": "Hors facturation",
+   "fstat": "Facturé",
    "pose": "Non",
-   "pose_src": "Annulé par IRSH (mail Stéphanie 02/07/2026)",
+   "pose_src": "Annulé par IRSH (mail Stéphanie 02/07/2026) · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
    "proof": "",
-   "focus": "ANNULE"
+   "focus": "ANNULE",
+   "um": true
   },
   {
    "surname": "DUGUET",
@@ -1611,11 +1619,12 @@
    "rdv": "20/12/2025",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Hors facturation",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (20/12/2025) · CRM Compiexe : Posée/Effectuée",
-   "afac_def": "Oui",
-   "proof": ""
+   "pose_src": "RDV pose passé (20/12/2025) · CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Àfacturer=Non)",
+   "afac_def": "Non",
+   "proof": "",
+   "um": true
   },
   {
    "surname": "DULAC",
@@ -1748,7 +1757,7 @@
    "crm_date": "15/09/2025",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -1758,11 +1767,12 @@
    "rdv": "15/09/2025",
    "future": false,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (15/09/2025)",
+   "pose_src": "RDV pose passé (15/09/2025) · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "FAUCONNIER",
@@ -1931,7 +1941,7 @@
    "crm_date": "10/07/2026",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": true,
    "in_crm": true,
@@ -1941,11 +1951,12 @@
    "rdv": "10/07/2026",
    "future": false,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (10/07/2026)",
+   "pose_src": "RDV pose passé (10/07/2026) · Saisie manuelle client (Posé=Oui, Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "GOUDARD",
@@ -2143,7 +2154,7 @@
    "crm_date": "04/07/2025",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -2153,11 +2164,12 @@
    "rdv": "04/07/2025",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (04/07/2025) · CRM Compiexe : Posée/Effectuée",
+   "pose_src": "RDV pose passé (04/07/2025) · CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "HERREYRE",
@@ -2712,11 +2724,12 @@
    "rdv": "20/03/2026",
    "future": false,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Hors facturation",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (20/03/2026)",
-   "afac_def": "Oui",
-   "proof": ""
+   "pose_src": "RDV pose passé (20/03/2026) · Saisie manuelle client (Àfacturer=Non)",
+   "afac_def": "Non",
+   "proof": "",
+   "um": true
   },
   {
    "surname": "LEVY",
@@ -2731,7 +2744,7 @@
    "crm_date": "15/07/2026",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": true,
    "in_crm": true,
@@ -2741,11 +2754,12 @@
    "rdv": "15/07/2026",
    "future": true,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "CRM Compiexe : Posée/Effectuée",
+   "pose_src": "CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "LHERITIER",
@@ -2852,7 +2866,7 @@
    "crm_date": "24/04/2026",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": true,
    "in_crm": true,
@@ -2862,11 +2876,12 @@
    "rdv": "24/04/2026",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (24/04/2026) · CRM Compiexe : Posée/Effectuée · DIAV/SAV facturée dans InterFast (poses à facturer)",
+   "pose_src": "RDV pose passé (24/04/2026) · CRM Compiexe : Posée/Effectuée · DIAV/SAV facturée dans InterFast (poses à facturer) · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "MANAS",
@@ -2985,7 +3000,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": true,
    "in_mail": true,
    "in_crm": true,
@@ -2995,11 +3010,12 @@
    "rdv": "24/07/2026",
    "future": true,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "mail/brouillon 06-2026",
+   "pose_src": "mail/brouillon 06-2026 · Saisie manuelle client (Posé=Oui, Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "MAZERBOURG",
@@ -3043,7 +3059,7 @@
    "crm_date": "27/11/2024",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -3053,11 +3069,12 @@
    "rdv": "27/11/2024",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (27/11/2024) · CRM Compiexe : Posée/Effectuée",
+   "pose_src": "RDV pose passé (27/11/2024) · CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "MICHEL",
@@ -3113,11 +3130,12 @@
    "rdv": "21/07/2026",
    "future": true,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Hors facturation",
    "pose": "Oui",
-   "pose_src": "mail/brouillon 06-2026",
-   "afac_def": "Oui",
-   "proof": ""
+   "pose_src": "mail/brouillon 06-2026 · Saisie manuelle client (Àfacturer=Non)",
+   "afac_def": "Non",
+   "proof": "",
+   "um": true
   },
   {
    "surname": "MOMAS",
@@ -3179,11 +3197,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
-   "pose": "Oui",
-   "pose_src": "mail/brouillon 06-2026",
+   "fstat": "Commande reçue — à vérifier",
+   "pose": "À vérifier",
+   "pose_src": "mail/brouillon 06-2026 · Saisie manuelle client (Posé=À vérifier)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "MOUHEL",
@@ -3394,7 +3413,7 @@
    "crm_date": "03/07/2026",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -3404,11 +3423,12 @@
    "rdv": "03/07/2026",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (03/07/2026) · CRM Compiexe : Posée/Effectuée",
+   "pose_src": "RDV pose passé (03/07/2026) · CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "PECQUERY",
@@ -3433,11 +3453,12 @@
    "rdv": "03/11/2025",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Hors facturation",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (03/11/2025) · CRM Compiexe : Posée/Effectuée",
-   "afac_def": "Oui",
-   "proof": ""
+   "pose_src": "RDV pose passé (03/11/2025) · CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Àfacturer=Non)",
+   "afac_def": "Non",
+   "proof": "",
+   "um": true
   },
   {
    "surname": "PELUHET",
@@ -3496,7 +3517,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": true,
    "in_mail": true,
    "in_crm": false,
@@ -3513,11 +3534,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "mail/brouillon 06-2026",
+   "pose_src": "mail/brouillon 06-2026 · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "PEROTTINO",
@@ -3821,7 +3843,7 @@
    "crm_date": "05/06/2026",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": true,
    "in_crm": true,
@@ -3831,11 +3853,12 @@
    "rdv": "05/06/2026",
    "future": false,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (05/06/2026) · CRM Compiexe : Posée/Effectuée",
+   "pose_src": "RDV pose passé (05/06/2026) · CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Posé=Oui, Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "RAMBAUD",
@@ -4042,7 +4065,7 @@
    "crm_date": "04/11/2024",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": false,
    "in_mail": false,
    "in_crm": true,
@@ -4052,11 +4075,12 @@
    "rdv": "04/11/2024",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "RDV pose passé (04/11/2024) · CRM Compiexe : Posée/Effectuée",
+   "pose_src": "RDV pose passé (04/11/2024) · CRM Compiexe : Posée/Effectuée · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "SAUTIER",
@@ -4447,7 +4471,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (saisie manuelle)",
    "in_files": true,
    "in_mail": true,
    "in_crm": false,
@@ -4457,11 +4481,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Réalisée — NON facturée",
+   "fstat": "Facturé",
    "pose": "Oui",
-   "pose_src": "mail/brouillon 06-2026",
+   "pose_src": "mail/brouillon 06-2026 · Saisie manuelle client (Facturée=oui)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "um": true
   },
   {
    "surname": "VERRIER",

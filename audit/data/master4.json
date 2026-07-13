@@ -85,9 +85,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 03/02, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "ARMAND",
@@ -114,9 +115,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 13/05, aucune autre trace (récent)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "ARTIGUE",
@@ -285,7 +287,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (probable, à confirmer)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -295,11 +297,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Matériel livré 16/02 (GEODIS)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "PROBABLE"
   },
   {
    "surname": "BIBE",
@@ -314,7 +317,7 @@
    "crm_date": "",
    "pose_date": "2026-02-02",
    "montant": "1000.0",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": true,
    "in_mail": true,
    "in_crm": false,
@@ -324,11 +327,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 02/02/2026 — solde client suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "BOCHATEY",
@@ -355,9 +359,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 13/02, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "BONETTO",
@@ -402,7 +407,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -412,11 +417,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 31/01/2026 — solde client suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "BOUCHARD",
@@ -461,7 +467,7 @@
    "crm_date": "",
    "pose_date": "2026-02-16",
    "montant": "1050.0",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": true,
    "in_mail": true,
    "in_crm": false,
@@ -471,11 +477,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 16/02/2026 — solde client suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "BOUCHERARA",
@@ -657,7 +664,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -667,11 +674,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 19/11/2025 — solde suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "CABRIERE",
@@ -757,9 +765,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 15/04, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "CASTEJON",
@@ -786,9 +795,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "Pose de février probable (série F04-07) — à confirmer sur PDF",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "CHABRIER",
@@ -844,9 +854,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "Pose de février probable (série F04-07) — à confirmer sur PDF",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "CHAMPENOIS",
@@ -968,7 +979,7 @@
    "crm_date": "",
    "pose_date": "2026-02-18",
    "montant": "850.0",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": true,
    "in_mail": true,
    "in_crm": false,
@@ -978,11 +989,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 18/02/2026 — solde 4 784€ suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "COATRINE",
@@ -1175,9 +1187,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 13/05, aucune autre trace (récent)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "DA",
@@ -1273,7 +1286,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -1283,11 +1296,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 16/03 + 05/05/2026 — soldes suivis par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "DALBO",
@@ -1343,9 +1357,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA redemandée 27/01, pas de pose tracée",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "DARMENDRAIL",
@@ -1403,7 +1418,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (probable, à confirmer)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -1413,11 +1428,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Modif DIAP +150€ FHS",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "PROBABLE"
   },
   {
    "surname": "DESLUX",
@@ -1565,11 +1581,12 @@
    "rdv": "20/04/2026",
    "future": false,
    "enc": true,
-   "fstat": "Réalisée — NON facturée",
-   "pose": "Oui",
-   "pose_src": "RDV pose passé (20/04/2026)",
+   "fstat": "Hors facturation",
+   "pose": "Non",
+   "pose_src": "Annulé par IRSH (mail Stéphanie 02/07/2026)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "ANNULE"
   },
   {
    "surname": "DUGUET",
@@ -1654,9 +1671,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 20/03, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "DUPLE",
@@ -1671,7 +1689,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -1681,11 +1699,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 29/12/2025 — solde suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "EYHARTZ",
@@ -1894,9 +1913,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "Pose de février probable (série F04-07) — à confirmer sur PDF",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "GHARBI",
@@ -1953,9 +1973,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue (2 réf.), aucune pose tracée",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "GRAS",
@@ -1982,9 +2003,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 13/05, aucune autre trace (récent)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "GRIN",
@@ -2042,9 +2064,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 23/04, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "GUIGO",
@@ -2060,7 +2083,7 @@
    "crm_date": "",
    "pose_date": "2026-02-23",
    "montant": "1200.0",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": true,
    "in_mail": true,
    "in_crm": false,
@@ -2070,11 +2093,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 23/02/2026 — solde 5 345€ suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "HADJ",
@@ -2101,9 +2125,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 20/02, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "HARCAUT",
@@ -2315,9 +2340,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "Pose de février probable (série F04-07) — à confirmer sur PDF",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "JACOMINO",
@@ -2332,7 +2358,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (probable, à confirmer)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -2342,11 +2368,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Modif DIAP (pompe non posée) — pose faite",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "PROBABLE"
   },
   {
    "surname": "JACQUEMIN",
@@ -2390,7 +2417,7 @@
    "crm_date": "",
    "pose_date": "2026-02-23",
    "montant": "700.0",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": true,
    "in_mail": false,
    "in_crm": false,
@@ -2400,11 +2427,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Installé — avis client transmis 06/03/2026",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "JUZANS",
@@ -2431,9 +2459,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "Pose du 12/02 REPORTÉE — statut à confirmer",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "KABANTCHENKO",
@@ -2448,7 +2477,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (probable, à confirmer)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -2458,11 +2487,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Matériel livré 06/02 + travaux supp. — pose probable",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "PROBABLE"
   },
   {
    "surname": "KLELIFA",
@@ -2477,7 +2507,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (probable, à confirmer)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -2487,11 +2517,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Intervention 15/04/2026 (SAV/rework) — CRI demandé",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "PROBABLE"
   },
   {
    "surname": "LARREDE",
@@ -2543,7 +2574,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": true,
    "in_mail": true,
    "in_crm": false,
@@ -2553,11 +2584,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 17/12/2025 — solde suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "LASSUS",
@@ -2572,7 +2604,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (probable, à confirmer)",
    "in_files": true,
    "in_mail": false,
    "in_crm": false,
@@ -2582,11 +2614,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Modif DIAP +200€ FHS",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "PROBABLE"
   },
   {
    "surname": "LE",
@@ -2727,7 +2760,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (probable, à confirmer)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -2737,11 +2770,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Modif DIAP +100€ (saignée évacuation)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "PROBABLE"
   },
   {
    "surname": "LUPFER",
@@ -2768,9 +2802,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 27/01, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "MAILLARD",
@@ -2786,7 +2821,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -2796,11 +2831,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 11/03/2026 — solde 3 920€ suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "MAILLON",
@@ -2845,7 +2881,7 @@
    "crm_date": "",
    "pose_date": "",
    "montant": "",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": false,
    "in_mail": true,
    "in_crm": false,
@@ -2855,11 +2891,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 05/03/2026 — solde 4 549€ suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "MANSUY",
@@ -2929,9 +2966,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 05/01, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "MAYZAUD",
@@ -3046,9 +3084,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 13/05, aucune autre trace (récent)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "MINGAM",
@@ -3493,7 +3532,7 @@
    "crm_date": "",
    "pose_date": "2026-02-17",
    "montant": "1330.0",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": true,
    "in_mail": false,
    "in_crm": false,
@@ -3503,11 +3542,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 17/02/2026 — CRI fourni (Julien Brisset)",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "PERRIERE",
@@ -3823,9 +3863,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA/DIAV reçue 22/04, aucune pose tracée",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "RANDRIAMANANA",
@@ -3912,9 +3953,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA redemandée 19/01, pas de pose tracée",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "SAINT",
@@ -4041,9 +4083,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 13/03, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "SCORDO",
@@ -4059,7 +4102,7 @@
    "crm_date": "",
    "pose_date": "2026-02-09",
    "montant": "900.0",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": true,
    "in_mail": true,
    "in_crm": false,
@@ -4069,11 +4112,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 09/02/2026 — solde 5 250€ suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "SOGNO-BEZZA",
@@ -4130,9 +4174,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "DIA reçue 20/04, aucune autre trace",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "SUBERCAZE",
@@ -4299,7 +4344,7 @@
    "crm_date": "",
    "pose_date": "2026-02-24",
    "montant": "850.0",
-   "invoice": "",
+   "invoice": "Facturé (série F 2026)",
    "in_files": true,
    "in_mail": false,
    "in_crm": false,
@@ -4309,11 +4354,12 @@
    "rdv": "",
    "future": false,
    "enc": false,
-   "fstat": "Commande reçue — à vérifier",
-   "pose": "À vérifier",
-   "pose_src": "",
+   "fstat": "Facturé",
+   "pose": "Oui",
+   "pose_src": "Posé 24/02/2026 — solde 4 450€ suivi par IRSH",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "FACTURE"
   },
   {
    "surname": "VENTURINI",
@@ -4383,9 +4429,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "Pose ~30/03 probable — à confirmer sur PDF",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "VERNER",
@@ -4529,9 +4576,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "Pose ~31/03 probable — à confirmer sur PDF",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "WORMSER",
@@ -4617,9 +4665,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "Pose de février probable (série F04-07) — à confirmer sur PDF",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "ZUBIETA",
@@ -4646,9 +4695,10 @@
    "enc": false,
    "fstat": "Commande reçue — à vérifier",
    "pose": "À vérifier",
-   "pose_src": "",
+   "pose_src": "Pose ~30/03 probable — à confirmer sur PDF",
    "afac_def": "Oui",
-   "proof": ""
+   "proof": "",
+   "focus": "CONFIRMER"
   },
   {
    "surname": "BARRERE",

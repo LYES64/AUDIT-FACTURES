@@ -109,6 +109,19 @@ function fcount(s){return DATA.dossiers.filter(x=>x.fstat==s).length;}
 function nOvr(){return Object.keys(OVR).length;}
 function nFacSaisies(){return Object.values(FAC).filter(v=>v=="oui").length;}
 function nAfNon(){return Object.values(AF).filter(v=>v=="Non").length;}
+// ---- Export / Import des saisies manuelles (pour sauvegarde et fusion) ----
+window.exportOvr=()=>{
+ const data={pose:OVR,fac:FAC,afac:AF,exported:new Date().toISOString(),tool:"audit-factures-v4"};
+ const blob=new Blob([JSON.stringify(data,null,1)],{type:"application/json"});
+ const a=document.createElement("a");a.href=URL.createObjectURL(blob);
+ a.download="mes_saisies_audit_"+new Date().toISOString().slice(0,10)+".json";
+ document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove();},100);};
+window.importOvr=(inp)=>{const f=inp.files&&inp.files[0];if(!f)return;const rd=new FileReader();
+ rd.onload=e=>{try{const d=JSON.parse(e.target.result);
+   Object.assign(OVR,d.pose||{});Object.assign(FAC,d.fac||{});Object.assign(AF,d.afac||{});
+   localStorage.setItem(OVK,JSON.stringify(OVR));localStorage.setItem(FAK,JSON.stringify(FAC));localStorage.setItem(AFK,JSON.stringify(AF));
+   applyOvr();render();alert("Saisies importées et fusionnées ✔");
+ }catch(err){alert("Fichier invalide.");}};rd.readAsText(f);inp.value="";};
 window.goProof=(id)=>{tab="ev";render();setTimeout(()=>{const el=document.getElementById(id);if(el){el.scrollIntoView({behavior:"smooth",block:"start"});el.classList.remove("flash");void el.offsetWidth;el.classList.add("flash");}},60);};
 
 function pbadge(s){const k=s.split(" ")[0];return `<span class="badge p-${k}">${s}</span>`;}
@@ -183,9 +196,11 @@ function dossTable(nonfacView){
    <select onchange="setFilt('pose',this.value)"><option value="">Pose : toutes</option>${opts(fPose,["Oui","Non","À vérifier"])}</select>
    <select onchange="setFilt('dept',this.value)"><option value="">Dépt : tous</option>${opts(fDept,depts)}</select>
    <button class=btn onclick="resetFilt()">Réinitialiser filtres</button>
-   ${ovrn?`<button class=btn onclick="resetOvr()" title="Annuler vos corrections manuelles">↩︎ ${ovrn} correction(s) « Posé »</button>`:""}
-   ${nFacSaisies()?`<button class=btn onclick="resetFac()" title="Annuler vos saisies Facturée">↩︎ ${nFacSaisies()} « Facturée » saisie(s)</button>`:""}
-   ${nAfNon()?`<button class=btn onclick="resetAf()" title="Annuler vos saisies À facturer">↩︎ ${nAfNon()} « Hors facturation »</button>`:""}
+   <button class=btn onclick="exportOvr()" title="Sauvegarder vos saisies dans un fichier (à conserver ou m'envoyer)">⬇︎ Exporter mes saisies</button>
+   <label class=btn style="cursor:pointer" title="Fusionner des saisies depuis un fichier exporté">⬆︎ Importer<input type=file accept="application/json,.json" style="display:none" onchange="importOvr(this)"></label>
+   ${ovrn?`<button class=btn onclick="resetOvr()" title="Annuler vos corrections manuelles">↩︎ ${ovrn} « Posé »</button>`:""}
+   ${nFacSaisies()?`<button class=btn onclick="resetFac()" title="Annuler vos saisies Facturée">↩︎ ${nFacSaisies()} « Facturée »</button>`:""}
+   ${nAfNon()?`<button class=btn onclick="resetAf()" title="Annuler vos saisies À facturer">↩︎ ${nAfNon()} « Hors fact. »</button>`:""}
  </div>`;
  const d=dossFiltered();
  const cols=[["client","Nom de chantier"],["dia","N° DIA"],["dept","Dépt"],["rdv","RDV pose"],["crm","CRM (Compiexe)"],["afac","À facturer ?"],["fac","Facture rattachée"],["stat","Statut facturation"],["pose","Posé ?"]];

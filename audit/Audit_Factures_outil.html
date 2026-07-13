@@ -77,22 +77,30 @@ let dq="",fFac="",fPose="",fDept="",sortCol="client",sortDir=1;
 function esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
 function jsq(s){return (s||"").replace(/\\/g,"\\\\").replace(/'/g,"\\'");}
 
-// ---- surcharges manuelles "Posé ?" (mémorisées sur le poste) ----
-const OVK="audit_pose_ovr_v1";
+// ---- surcharges manuelles, mémorisées sur le poste ----
+const OVK="audit_pose_ovr_v1";   // colonne "Posé ?"
+const FAK="audit_fac_ovr_v1";    // colonne "Facturée ?"
 let OVR={};try{OVR=JSON.parse(localStorage.getItem(OVK)||"{}");}catch(e){OVR={};}
+let FAC={};try{FAC=JSON.parse(localStorage.getItem(FAK)||"{}");}catch(e){FAC={};}
 function dkey(x){return (x.dia&&x.dia[0])?x.dia[0]:x.client;}
+function isFac(x){const k=dkey(x);if(FAC[k]=="oui")return true;if(FAC[k]=="non")return false;return !!(x.invoice&&x.invoice.trim());}
 function recompFstat(x){
- if(x.invoice&&x.invoice.trim())return "Facturé";
+ if(isFac(x))return "Facturé";
  if(x.pose=="Oui")return "Réalisée — NON facturée";
  if(x.pose=="Non")return (x.future||x.enc)?"En cours — pas encore posée":"Commande reçue — à vérifier";
  return "Commande reçue — à vérifier";}
 function applyOvr(){DATA.dossiers.forEach(x=>{const k=dkey(x);
-  if(OVR[k]!==undefined){x.pose=OVR[k];x.fstat=recompFstat(x);x._ovr=true;}else{x._ovr=false;}});}
+  x._ovr=(OVR[k]!==undefined); x._facovr=(FAC[k]!==undefined);
+  if(x._ovr)x.pose=OVR[k];
+  if(x._ovr||x._facovr)x.fstat=recompFstat(x);});}
 applyOvr();
 window.setPose=(k,v)=>{OVR[k]=v;localStorage.setItem(OVK,JSON.stringify(OVR));applyOvr();render();};
+window.setFac=(k,v)=>{FAC[k]=v;localStorage.setItem(FAK,JSON.stringify(FAC));applyOvr();render();};
 window.resetOvr=()=>{if(!confirm("Annuler toutes vos corrections manuelles de la colonne « Posé ? » ?"))return;OVR={};localStorage.removeItem(OVK);applyOvr();render();};
+window.resetFac=()=>{if(!confirm("Annuler toutes vos saisies de la colonne « Facturée ? » ?"))return;FAC={};localStorage.removeItem(FAK);applyOvr();render();};
 function fcount(s){return DATA.dossiers.filter(x=>x.fstat==s).length;}
 function nOvr(){return Object.keys(OVR).length;}
+function nFacSaisies(){return Object.values(FAC).filter(v=>v=="oui").length;}
 window.goProof=(id)=>{tab="ev";render();setTimeout(()=>{const el=document.getElementById(id);if(el){el.scrollIntoView({behavior:"smooth",block:"start"});el.classList.remove("flash");void el.offsetWidth;el.classList.add("flash");}},60);};
 
 function pbadge(s){const k=s.split(" ")[0];return `<span class="badge p-${k}">${s}</span>`;}
@@ -168,6 +176,7 @@ function dossTable(nonfacView){
    <select onchange="setFilt('dept',this.value)"><option value="">Dépt : tous</option>${opts(fDept,depts)}</select>
    <button class=btn onclick="resetFilt()">Réinitialiser filtres</button>
    ${ovrn?`<button class=btn onclick="resetOvr()" title="Annuler vos corrections manuelles">↩︎ ${ovrn} correction(s) « Posé »</button>`:""}
+   ${nFacSaisies()?`<button class=btn onclick="resetFac()" title="Annuler vos saisies Facturée">↩︎ ${nFacSaisies()} « Facturée » saisie(s)</button>`:""}
  </div>`;
  const d=dossFiltered();
  const cols=[["client","Nom de chantier"],["dia","N° DIA"],["dept","Dépt"],["rdv","RDV pose"],["crm","CRM (Compiexe)"],["fac","Facture rattachée"],["stat","Statut facturation"],["pose","Posé ?"]];
@@ -176,8 +185,13 @@ function dossTable(nonfacView){
    return `<select class="posesel${x._ovr?' ovr':''}" onchange="setPose('${k}',this.value)">`+
      ["Oui","Non","À vérifier"].map(v=>`<option ${cur==v?'selected':''}>${v}</option>`).join("")+
      `</select>${x._ovr?' <span class=ovrflag>modifié</span>':''}`;};
+ const facSel=x=>{const k=jsq(dkey(x));const f=isFac(x);
+   return `<select class="posesel${x._facovr?' ovr':''}" onchange="setFac('${k}',this.value)">`+
+     `<option value="oui" ${f?'selected':''}>Oui</option><option value="non" ${!f?'selected':''}>Non</option>`+
+     `</select>`;};
  let body=d.map(x=>{const pid=x.proof||proofOf(x.invoice);
-   const facCell=x.invoice?`<b>${x.invoice}</b>${pid?` <a class=plink href="#" onclick="goProof('${pid}');return false" title="Voir la preuve">📎</a>`:""}`:"<span class=small>—</span>";
+   const ref=x.invoice?`<b>${x.invoice}</b>${pid?` <a class=plink href="#" onclick="goProof('${pid}');return false" title="Voir la preuve">📎</a>`:""}`:"";
+   const facCell=`<div>Facturée ? ${facSel(x)}</div>${ref?`<div class=small style="margin-top:2px">${ref}</div>`:""}`;
    return `<tr>
    <td><b>${x.client}</b>${x.pose_src?`<div class=small>${x.pose_src}</div>`:""}</td>
    <td>${x.dia.map(r=>`<span class=chip>${r}</span>`).join(" ")||"—"}</td>
@@ -187,7 +201,9 @@ function dossTable(nonfacView){
    <td>${facCell}</td>
    <td>${fbadge(x.fstat)}</td>
    <td>${poseSel(x)}</td></tr>`;}).join("");
- let intro = nonfacView ? `<div class=note><b>⚠️ Dossiers posés (installés) mais NON facturés</b> — <b>règle appliquée : dès que la date de RDV pose est passée, l'intervention est considérée réalisée</b> (les statuts de l'export ne sont pas à jour). Croisé avec le CRM Compiexe à jour (${DATA.crm_asof||''}) et les mails. Ce sont les dossiers à facturer en priorité (reprise à <b>F2026-25</b>). ⚠️ Vérifiez le <b>type</b> (colonne CRM) : SAV/REWORK ne sont pas toujours facturables comme une pose. Cliquez une colonne pour trier. <b>La colonne « Posé ? » est modifiable</b> : si Compiexe se trompe, choisissez « Non » et le statut se recalcule tout seul (mémorisé sur votre poste).</div>` : "";
+ const restant=fcount("Réalisée — NON facturée"), faites=nFacSaisies();
+ let progress = nonfacView ? `<div class=card style="border-left:5px solid var(--grn)"><b>Avancement facturation</b> — ✔️ <b style="color:var(--grn)">${faites}</b> facture(s) que vous avez saisie(s) · reste <b style="color:var(--red)">${restant}</b> à faire. <span class=small>Passez « Facturée ? » à <b>Oui</b> quand vous éditez la facture : la ligne bascule en vert et sort de cette liste.</span></div>` : "";
+ let intro = nonfacView ? progress+`<div class=note><b>⚠️ Dossiers posés (installés) mais NON facturés</b> — <b>règle appliquée : dès que la date de RDV pose est passée, l'intervention est considérée réalisée</b> (les statuts de l'export ne sont pas à jour). Croisé avec le CRM Compiexe à jour (${DATA.crm_asof||''}) et les mails. Ce sont les dossiers à facturer en priorité (reprise à <b>F2026-25</b>). ⚠️ Vérifiez le <b>type</b> (colonne CRM) : SAV/REWORK ne sont pas toujours facturables comme une pose. Cliquez une colonne pour trier. <b>La colonne « Posé ? » est modifiable</b> : si Compiexe se trompe, choisissez « Non » et le statut se recalcule tout seul (mémorisé sur votre poste).</div>` : "";
  return head+intro+ctl+`<div class=wrap><table><thead>${thead}</thead><tbody>${body}</tbody></table></div>
    <p class=small>${d.length} dossier(s) affiché(s) sur ${DATA.dossiers.length}. Rapprochement : <b>N° DIA → nom de chantier → facture</b> (source mails IRSH + CRM Compiexe ; le fichier de suivi n'est pas utilisé comme référence).</p>`;}
 
